@@ -13,7 +13,8 @@ Look out, a Snake!
 And by snakes, we mean Python, the programming language. Create a project in python and submit on the Daily Devpost. 
 https://devpost.com/nullpounce
 
-![slither-notes](https://user-images.githubusercontent.com/28081004/224529493-c6096c1a-997b-463c-8b42-243fd6aba038.png)
+![Screenshot 2023-03-18 191014](https://user-images.githubusercontent.com/28081004/226144834-3b360931-e455-4f6c-9fa6-5d2091162857.png)
+
 
 # easy to edit and learn, just 83 lines of simple code
 ![83](https://user-images.githubusercontent.com/28081004/224529584-16f3ee6f-1ef0-434e-a2f2-9838543026b3.png)
